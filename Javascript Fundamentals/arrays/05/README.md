@@ -1,0 +1,4 @@
+## Return last n array elements
+
+* Write a function that takes an array (a) and a number (n) as arguments
+* It should return the last n elements of a
